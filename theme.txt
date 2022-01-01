@@ -1,0 +1,18 @@
+standard jekyll themes: https://mmistakes.github.io/minimal-mistakes/ http://artemsheludko.com/flexible-jekyll/ https://www.amitmerchant.com/reverie/introducing-reverie-jekyll-theme/
+nonstandard jekyll theme repos: https://lanyon.getpoole.com/ https://academicpages.github.io/
+lanyon.getpoole.com
+blog: clayh53.github.io
+looks great on mobile: https://lenpaul.github.io/Lagrange/
+nice but not your style: https://chirpy.cotes.info/
+profile/resume: https://github.com/academicpages/academicpages.github.io
+https://banana.moe/jekyll-theme-kagami/
+
+FAVORITES:
+gorgeous: https://yous.github.io/whiteglass/
+sexy mathy one need to follow installation instructions!: https://clayh53.github.io/tufte-jekyll/
+
+additional:
+https://github.com/gchauras/much-worse-jekyll-theme
+https://github.com/rowanoulton/galileo-theme
+https://github.com/karloespiritu/BlackDoc#themes
+https://github.com/thesowah/wangana
