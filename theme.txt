@@ -16,3 +16,9 @@ https://github.com/gchauras/much-worse-jekyll-theme
 https://github.com/rowanoulton/galileo-theme
 https://github.com/karloespiritu/BlackDoc#themes
 https://github.com/thesowah/wangana
+
+https://hugo-book-demo.netlify.app/docs/example/table-of-contents/with-toc/
+https://themes.gohugo.io/themes/simpleness
+https://themes.gohugo.io/themes/hugo-tufte/
+
+https://graphitemaster.github.io/aau/
